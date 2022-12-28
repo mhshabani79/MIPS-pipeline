@@ -1,2 +1,4 @@
 # MIPS-pipeline
-MIPS Verilog implementation with pipeline , Cache and SRAM
+This Processor Support SRAM and Cache Modules.  
+there is a report at docs folder that completely describe the modules.  
+
